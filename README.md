@@ -9,4 +9,6 @@ This dataset consists of information of the passengers who were in the Titatic s
 ## Conclusion:
 After data is cleaned and preprocessed, it is fed into Logictic Regression ML Algorithm and it enable us to predict the target variable for test data. 
 With StratifiedKFold cross validation, mean accuracy score turned out to be **0.844**
-You can find the confusion matrix below.
+You can find the confusion matrix below.  
+
+![](/__results___106_1.png)
